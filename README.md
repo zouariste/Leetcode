@@ -1,4 +1,4 @@
-# [LeetCode](https://leetcode.com/problemset/algorithms/) [![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](LICENSE.md) [![Build Status](https://travis-ci.org/zouariste/Leetcode.svg?branch=master)](https://travis-ci.org/zouariste/Leetcode) ![Language](https://img.shields.io/badge/language-Python%20%2F%20C++-blue.svg) 
+# [LeetCode](https://leetcode.com/problemset/algorithms/) [![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](https://github.com/zouariste/Leetcode/blob/main/LICENSE)  ![Language](https://img.shields.io/badge/language-Python%20%2F%20C++-blue.svg) 
 
 _If you like this project, please leave me a star._ &#9733;
 
@@ -7,7 +7,7 @@ _If you like this project, please leave me a star._ &#9733;
 
 |  #  |      Title     |   Solutions   | Video  | Difficulty  | Tag                   
 |-----|----------------|---------------|--------|-------------|-------------
-|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Solution](https://github.com/zouariste/Leetcode/blob/main/Hard/41_First_Missing_Positive.py) |[:tv:](https://mohamedzouari.me/)|Hard|Array|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Solution](https://github.com/zouariste/Leetcode/blob/main/Hard/41_First_Missing_Positive.py) |[:tv:](https://www.youtube.com/watch?v=RHDLFs11tCk)|Hard|Array|
 
 
 ## Contributing
