@@ -7,7 +7,8 @@ _If you like this project, please leave me a star._ &#9733;
 
 |  #  |      Title     |   Solutions   | Video  | Difficulty  | Tag                   
 |-----|----------------|---------------|--------|-------------|-------------
-|1785|[Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/first-missing-positive/)|[Solution]() ||Hard|Array|
+|41|[Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/first-missing-positive/)|[Solution]() ||Hard|Array|
+|1689|[Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Solution]() ||Medium|Math|
 
 
 ## Contributing
