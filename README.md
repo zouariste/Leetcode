@@ -9,6 +9,7 @@ _If you like this project, please leave me a star._ &#9733;
 |-----|----------------|---------------|--------|-------------|-------------
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Solution](https://github.com/zouariste/Leetcode/blob/main/Hard/41_First_Missing_Positive.py) |[:tv:](https://www.youtube.com/watch?v=RHDLFs11tCk)|Hard|Array|
 |1689|[Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Solution](https://github.com/zouariste/Leetcode/blob/main/Medium/1689_Partitioning_Into_Minimum_Number_Of_Deci-Binary_Numbers.py) |[:tv:](https://youtu.be/TBcHX1WF3Kw)|Medium|Math|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](https://github.com/zouariste/Leetcode/blob/main/Medium/1689_Partitioning_Into_Minimum_Number_Of_Deci-Binary_Numbers.py) ||Medium|Array|
 
 
 ## Contributing
